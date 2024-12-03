@@ -1,0 +1,12 @@
+﻿  TestDate.cpp
+C:\Users\HP\Desktop\TOP-online\Date\Date.h(81,2): error C2059: syntax error: '{'
+C:\Users\HP\Desktop\TOP-online\Date\Date.h(131,2): message : see reference to class template instantiation 'our::Date<T>' being compiled
+C:\Users\HP\Desktop\TOP-online\Date\Date.h(81,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\HP\Desktop\TOP-online\Date\Date.h(87,2): error C2059: syntax error: '{'
+C:\Users\HP\Desktop\TOP-online\Date\Date.h(87,2): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\HP\Desktop\TOP-online\Date\Date.h(206,53): error C2065: 'T': undeclared identifier
+C:\Users\HP\Desktop\TOP-online\Date\Date.h(206,48): error C7568: argument list missing after assumed function template 'Date'
+C:\Users\HP\Desktop\TOP-online\Date\Date.h(211,11): error C2065: 'T': undeclared identifier
+C:\Users\HP\Desktop\TOP-online\Date\Date.h(211,13): error C2653: 'Date': is not a class or namespace name
+C:\Users\HP\Desktop\TOP-online\Date\Date.h(211,6): error C2903: 'Date': symbol is neither a class template nor a function template
+C:\Users\HP\Desktop\TOP-online\Date\Date.h(211,15): error C3861: 'isValid': identifier not found
