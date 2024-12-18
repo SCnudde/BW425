@@ -4,6 +4,9 @@
 
 int main()
 {
+
+	std::cout << "HEllo guys!";
+
 	using DateSupport = std::int64_t;
 
 	try
